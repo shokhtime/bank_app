@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "56341758245",
+    "firebase_url": "https://lesson46-992e4-default-rtdb.firebaseio.com",
+    "project_id": "lesson46-992e4",
+    "storage_bucket": "lesson46-992e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56341758245:android:8178cf64d4fa4995e79acc",
+        "android_client_info": {
+          "package_name": "com.example.lesson_46"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2FAvyCBI9BZpGrncrDO8pP8DOdrBeX2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56341758245:android:0ab47beb77038b56e79acc",
+        "android_client_info": {
+          "package_name": "com.example.online_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2FAvyCBI9BZpGrncrDO8pP8DOdrBeX2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56341758245:android:89bea0451e38bdb8e79acc",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2FAvyCBI9BZpGrncrDO8pP8DOdrBeX2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
